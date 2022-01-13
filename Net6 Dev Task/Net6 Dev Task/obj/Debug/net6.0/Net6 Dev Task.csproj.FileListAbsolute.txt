@@ -1,0 +1,17 @@
+F:\KTU\Praktika\Visma\Net6 Dev Task\Net6 Dev Task\bin\Debug\net6.0\Net6 Dev Task.exe
+F:\KTU\Praktika\Visma\Net6 Dev Task\Net6 Dev Task\bin\Debug\net6.0\Net6 Dev Task.deps.json
+F:\KTU\Praktika\Visma\Net6 Dev Task\Net6 Dev Task\bin\Debug\net6.0\Net6 Dev Task.runtimeconfig.json
+F:\KTU\Praktika\Visma\Net6 Dev Task\Net6 Dev Task\bin\Debug\net6.0\Net6 Dev Task.dll
+F:\KTU\Praktika\Visma\Net6 Dev Task\Net6 Dev Task\bin\Debug\net6.0\ref\Net6 Dev Task.dll
+F:\KTU\Praktika\Visma\Net6 Dev Task\Net6 Dev Task\bin\Debug\net6.0\Net6 Dev Task.pdb
+F:\KTU\Praktika\Visma\Net6 Dev Task\Net6 Dev Task\obj\Debug\net6.0\Net6 Dev Task.csproj.AssemblyReference.cache
+F:\KTU\Praktika\Visma\Net6 Dev Task\Net6 Dev Task\obj\Debug\net6.0\Net6 Dev Task.GeneratedMSBuildEditorConfig.editorconfig
+F:\KTU\Praktika\Visma\Net6 Dev Task\Net6 Dev Task\obj\Debug\net6.0\Net6 Dev Task.AssemblyInfoInputs.cache
+F:\KTU\Praktika\Visma\Net6 Dev Task\Net6 Dev Task\obj\Debug\net6.0\Net6 Dev Task.AssemblyInfo.cs
+F:\KTU\Praktika\Visma\Net6 Dev Task\Net6 Dev Task\obj\Debug\net6.0\Net6 Dev Task.csproj.CoreCompileInputs.cache
+F:\KTU\Praktika\Visma\Net6 Dev Task\Net6 Dev Task\obj\Debug\net6.0\Net6 Dev Task.dll
+F:\KTU\Praktika\Visma\Net6 Dev Task\Net6 Dev Task\obj\Debug\net6.0\ref\Net6 Dev Task.dll
+F:\KTU\Praktika\Visma\Net6 Dev Task\Net6 Dev Task\obj\Debug\net6.0\Net6 Dev Task.pdb
+F:\KTU\Praktika\Visma\Net6 Dev Task\Net6 Dev Task\obj\Debug\net6.0\Net6 Dev Task.genruntimeconfig.cache
+F:\KTU\Praktika\Visma\Net6 Dev Task\Net6 Dev Task\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\KTU\Praktika\Visma\Net6 Dev Task\Net6 Dev Task\obj\Debug\net6.0\Net6 Dev Task.csproj.CopyComplete
